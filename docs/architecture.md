@@ -1,6 +1,6 @@
 # Architecture
 
-Vehicle Log Viewer is a **fully client-side** CAN log analysis app built with React, TanStack Router, and browser-side parsers for BLF / ASC / CSV / MF4 plus DBC decoding.
+Canmetry Community is a **fully client-side** CAN log analysis app built with React, TanStack Router, and browser-side parsers for BLF / ASC / CSV / MF4 plus DBC decoding.
 
 The repository is organized around one core idea:
 

@@ -1,14 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Vehicle Log Viewer">
-  <rect width="512" height="512" rx="96" fill="#1e3a5f"/>
-  <text
-    x="50%"
-    y="52%"
-    text-anchor="middle"
-    dominant-baseline="central"
-    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
-    font-size="240"
-    font-weight="700"
-    fill="#f8fafc"
-    letter-spacing="-10"
-  >VL</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Canmetry">
+  <path d="M124 16H388Q496 16 496 124V352L352 496H124Q16 496 16 388V124Q16 16 124 16Z" fill="#0f7fff"/>
+  <path d="M496 352L352 496Q356 404 372 384Q392 362 496 352Z" fill="#c6dcff"/>
+  <path d="M314.9 290.6 334.5 301.8Q311.6 347.7 280.2 372.6Q248.8 397.6 213.6 397.6Q189.5 397.6 171.6 386.1Q153.6 374.6 143.6 354.2Q133.5 333.7 133.5 306.3Q133.5 276.6 143.6 245.8Q153.6 215.0 171.0 187.0Q188.4 159.0 210.5 137.1Q232.6 115.3 257.0 102.4Q281.3 89.5 304.8 89.5Q331.2 89.5 348.8 104.1Q366.4 118.7 366.4 140.5Q366.4 154.5 358.3 163.2Q350.2 171.9 337.3 171.9Q325.0 171.9 316.6 163.7Q308.2 155.6 308.2 143.9Q308.2 136.6 310.4 132.1Q312.7 127.6 312.7 123.7Q312.7 119.8 309.3 117.8Q306.0 115.9 299.2 115.9Q280.8 115.9 261.7 132.9Q242.7 150.0 227.0 178.0Q211.3 206.0 201.8 239.6Q192.3 273.2 192.3 306.8Q192.3 333.7 202.6 349.1Q213.0 364.5 231.5 364.5Q244.9 364.5 259.8 355.0Q274.6 345.5 289.2 328.7Q303.7 311.9 314.9 290.6Z" fill="#fff"/>
+  <path d="M110 168q22-34 44 0t44 0" fill="none" stroke="#fff" stroke-width="22" stroke-linecap="round"/>
 </svg>

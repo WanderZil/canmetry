@@ -7,7 +7,7 @@ export const envConfigs = {
     return metaEnv.VITE_APP_URL ?? 'http://localhost:3000';
   },
   get app_name() {
-    return metaEnv.VITE_APP_NAME ?? 'Vehicle Log Viewer';
+    return metaEnv.VITE_APP_NAME ?? 'Canmetry Community';
   },
   get app_description() {
     return metaEnv.VITE_APP_DESCRIPTION ?? 'Browser-based CAN log viewer';
