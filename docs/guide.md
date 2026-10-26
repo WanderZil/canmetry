@@ -1,6 +1,6 @@
 # User guide
 
-Vehicle Log Viewer is a browser-based CAN log analyzer for **loading raw bus logs and DBC files directly in the browser**. The community edition is fully client-side: files are read locally, parsed locally, and decoded locally.
+Canmetry Community is a browser-based CAN log analyzer for **loading raw bus logs and DBC files directly in the browser**. The community edition is fully client-side: files are read locally, parsed locally, and decoded locally.
 
 ## Workflow
 

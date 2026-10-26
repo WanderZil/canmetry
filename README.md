@@ -1,7 +1,7 @@
-# Vehicle Log Viewer
+# Canmetry Community — Vehicle Log Viewer
 
 <p align="center">
-  <img src="./public/logo.svg" alt="Vehicle Log Viewer" width="80" height="80" />
+  <img src="./public/logo.svg" alt="Canmetry" width="80" height="80" />
 </p>
 
 <p align="center">
@@ -10,7 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://wanderzil.github.io/vehicle-log-viewer/"><strong>Live demo</strong></a>
+  <a href="https://canmetry.com/"><strong>Open Canmetry online →</strong></a>
+  ·
+  <a href="https://wanderzil.github.io/canmetry/">Community demo</a>
   ·
   <a href="./docs/guide.md">User guide</a>
   ·
@@ -18,19 +20,32 @@
 </p>
 
 <p align="center">
-  <strong>Community edition</strong> — fully client-side, no login, no server upload.
+  <strong>Community edition</strong> — open source, runs in your browser, and does not upload your log or DBC files.
 </p>
+
+The hosted edition at [canmetry.com](https://canmetry.com/) builds on the same browser-based analyzer with optional account, project, and team features. The community edition remains available here to run locally or deploy yourself.
 
 ---
 
 ## Screenshots
 
-> Screenshots live under [`docs/samples/`](./docs/samples/) (`graph.png`, `Trace.png`, `DBC.png`).
+### Graph
 
-| Graph | Trace | DBC |
-|:-----:|:-----:|:---:|
-| ![Graph view](./docs/samples/graph.png) | ![Trace view](./docs/samples/Trace.png) | ![DBC view](./docs/samples/DBC.png) |
-| Signal charts, cursors, groups | Frame table, decode, bit heatmap | Messages, bit layout, attributes |
+<img src="./docs/samples/graph.png" alt="Canmetry Graph view showing decoded signals and charts" width="100%" />
+
+Signal charts, cursors, and groups for inspecting decoded signals over time.
+
+### Trace
+
+<img src="./docs/samples/Trace.png" alt="Canmetry Trace view showing CAN frames and decoded details" width="100%" />
+
+Searchable frame table with decoded details and bit activity heatmap.
+
+### DBC
+
+<img src="./docs/samples/DBC.png" alt="Canmetry DBC view showing messages, signals, and bit layout" width="100%" />
+
+Browse messages, signals, nodes, and bit layout without loading a log.
 
 ---
 
@@ -48,7 +63,7 @@
 
 ## Architecture
 
-Vehicle Log Viewer is a **static client-side application**:
+Canmetry Community is a **static client-side application**:
 
 - **UI layer** — React 19 + TanStack Router + TanStack Query
 - **Parsing layer** — browser-side BLF / ASC / CSV / MF4 readers in `src/lib/can/`
