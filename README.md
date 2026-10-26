@@ -25,6 +25,24 @@
 
 The hosted edition at [canmetry.com](https://canmetry.com/) builds on the same browser-based analyzer with optional account, project, and team features. The community edition remains available here to run locally or deploy yourself.
 
+### Hosted tools
+
+Open the matching Canmetry tool for the job:
+
+| Task | Canmetry tool |
+|------|---------------|
+| Open and inspect a BLF log | [BLF viewer](https://canmetry.com/blf-viewer/) |
+| Decode BLF to MAT or CSV | [BLF to MAT converter](https://canmetry.com/blf-to-mat/) |
+| Export raw BLF frames to CSV | [BLF to CSV](https://canmetry.com/blf-to-csv/) |
+| Convert BLF to ASC | [BLF to ASC](https://canmetry.com/blf-to-asc/) |
+| Decode ASC to MAT or CSV | [ASC to MAT converter](https://canmetry.com/asc-to-mat/) |
+| Decode MF4 to MAT or CSV | [MF4 to MAT converter](https://canmetry.com/mf4-to-mat/) |
+| Browse messages and signals in a DBC | [DBC viewer](https://canmetry.com/dbc-viewer/) |
+| Find errors in a DBC | [DBC checker](https://canmetry.com/dbc-checker/) |
+| Compare two DBC files | [DBC compare](https://canmetry.com/dbc-compare/) |
+| Export a DBC to Excel or CSV | [DBC to Excel](https://canmetry.com/dbc-to-excel/) |
+| Decode or encode a CAN signal | [CAN signal calculator](https://canmetry.com/can-signal-calculator/) |
+
 ---
 
 ## Screenshots
