@@ -32,16 +32,22 @@ Open the matching Canmetry tool for the job:
 | Task | Canmetry tool |
 |------|---------------|
 | Open and inspect a BLF log | [BLF viewer](https://canmetry.com/blf-viewer/) |
+| Open and inspect an MF4 CAN log | [MF4 viewer](https://canmetry.com/mf4-viewer/) |
 | Decode BLF to MAT or CSV | [BLF to MAT converter](https://canmetry.com/blf-to-mat/) |
 | Export raw BLF frames to CSV | [BLF to CSV](https://canmetry.com/blf-to-csv/) |
 | Convert BLF to ASC | [BLF to ASC](https://canmetry.com/blf-to-asc/) |
+| Convert ASC to a compressed BLF | [ASC to BLF](https://canmetry.com/asc-to-blf/) |
 | Decode ASC to MAT or CSV | [ASC to MAT converter](https://canmetry.com/asc-to-mat/) |
+| Trim or split a large ASC log | [ASC splitter](https://canmetry.com/asc-splitter/) |
 | Decode MF4 to MAT or CSV | [MF4 to MAT converter](https://canmetry.com/mf4-to-mat/) |
+| Measure CAN or CAN FD bus load from a log | [CAN bus load](https://canmetry.com/can-bus-load/) |
 | Browse messages and signals in a DBC | [DBC viewer](https://canmetry.com/dbc-viewer/) |
 | Find errors in a DBC | [DBC checker](https://canmetry.com/dbc-checker/) |
 | Compare two DBC files | [DBC compare](https://canmetry.com/dbc-compare/) |
 | Export a DBC to Excel or CSV | [DBC to Excel](https://canmetry.com/dbc-to-excel/) |
 | Decode or encode a CAN signal | [CAN signal calculator](https://canmetry.com/can-signal-calculator/) |
+
+New to the workflow? The [Canmetry docs](https://canmetry.com/docs/) cover opening a log, DBC mapping and how decoding works, and the [blog](https://canmetry.com/blog/) has guides to BLF, MF4 and DBC files.
 
 ---
 
